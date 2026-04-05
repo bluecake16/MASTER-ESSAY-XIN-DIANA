@@ -1,0 +1,5 @@
+# output figures
+*.pdf
+*.png
+# raw data
+*.csv
